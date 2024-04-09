@@ -1,0 +1,6 @@
+[submodule "dr_libs"]
+	path = dr_libs
+	url = https://github.com/mackron/dr_libs.git
+[submodule "sokol"]
+	path = sokol
+	url = https://github.com/floooh/sokol.git
